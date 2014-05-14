@@ -23,7 +23,7 @@
     "waterline",
     "active-record"
   ],
-  "repository": "git://github.com/balderdashy/waterline-schema.git",
+  "repository": "git://github.com/clarkorz/waterline-schema.git",
   "homepage": "http://github.com/balderdashy/waterline-schema",
   "main": "lib/waterline-schema.js",
   "scripts": {
